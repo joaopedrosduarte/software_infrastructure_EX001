@@ -1,4 +1,4 @@
-<img src="../image/code.png" align="right" width="300">
+<img src="./image/code.png" align="right" width="300">
 
 # Process zombie 001# :zombie:
 
